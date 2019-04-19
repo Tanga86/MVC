@@ -1,0 +1,3 @@
+config\MVCConfig.class
+controllers\HelloContr.class
+controllers\Person.class
